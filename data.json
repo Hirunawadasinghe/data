@@ -1,168 +1,17 @@
 [
     {
         "movie_id": "0000000001",
-        "name": "Your Name.",
-        "alt_name": "Kimi No Na Wa",
-        "thumbnail_image": "images\\1.png",
-        "description": "Mitsuha, a high school girl living in a rural town deep in the mountains, has a dream that she is a boy living an unfamiliar life in Tokyo. Taki, a high school boy living in Tokyo, dreams that he is a girl living in the mountains. As they realize they are changing places, their encounter sets the cogs of fate into motion.",
-        "tags": ["Drama", "Supernatural", "Romantic"],
-        "quality": "720p",
-        "release_year": "2016",
-        "link": "https://dl.20anime.ir/anime2/Year/2016/your%20name/Your.Name.2016.720p.%2820anime.site%29.mkv",
-        "play_list_id": "-"
-    },{
-        "movie_id": "0000000002",
         "name": "KonoSuba: God's Blessing on This Wonderful World!",
         "alt_name": "Kono Subarashii Sekai ni Shukufuku wo!",
-        "thumbnail_image": "images\\1.png",
+        "thumbnail_image": "images\\12.webp",
         "description": "After dying a laughable and pathetic death on his way back from buying a game, high school student and recluse Kazuma Satou finds himself sitting before a beautiful but obnoxious goddess named Aqua. She provides the NEET with two options: continue on to heaven or reincarnate in every gamer's dream—a real fantasy world! Choosing to start a new life, Kazuma is quickly tasked with defeating a Demon King who is terrorizing villages. But before he goes, he can choose one item of any kind to aid him in his quest, and the future hero selects Aqua. But Kazuma has made a grave mistake—Aqua is completely useless! Unfortunately, their troubles don't end here; it turns out that living in such a world is far different from how it plays out in a game. Instead of going on a thrilling adventure, the duo must first work to pay for their living expenses. Indeed, their misfortunes have only just begun!",
         "tags": ["Adventure", "Comedy", "Fantasy", "Isekai"],
-        "quality": "720p",
+        "language": "DUB",
         "release_year": "2016",
-        "link": "https://dl.20anime.ir/anime2/Year/2016/your%20name/Your.Name.2016.720p.%2820anime.site%29.mkv",
-        "play_list_id": "0000000001"
-    },{
-        "movie_id": "0000000003",
-        "name": "One Piece Adventure Of Nebulandia",
-        "alt_name": "-",
-        "thumbnail_image": "images\\1.png",
-        "description": "This special will have the Straw Hats fight Foxy again in the New World on Nebulandia, an island that nullifies Devil Fruit powers.",
-        "tags": ["Action", "Adventure", "Fantasy"],
-        "quality": "720p",
-        "release_year": "2015",
-        "link": "https://dl.20anime.ir/anime2/Year/2015/One%20Piece%3A%20AfN/One_Piece_Adventure_of_Nebulandia_2015.720p.%2820anime.site%29.mkv",
-        "play_list_id": "-"
-    },{
-        "movie_id": "0000000004",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2001%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000005",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2002%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000006",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2003%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000007",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2004%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000008",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2005%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000009",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2006%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000010",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2007%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000011",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2008%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000012",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2009%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000013",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2010%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000014",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2011%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
-    },{
-        "movie_id": "0000000015",
-        "name": "KonoSuba: An Explosion on This Wonderful World!",
-        "alt_name": "Kono Subarashii Sekai ni Bakuen wo!",
-        "thumbnail_image": "images\\1.png",
-        "description": "Megumin is a young and passionate wizard from the Crimson Demon Village, a remote community of mages with red eyes and a flair for the dramatic. She has devoted her life to mastering explosion magic, a powerful but impractical spell that leaves her drained of mana and unable to move for the rest of the day. Regardless, she refuses to learn any other skills. Along with her childhood friend and self-proclaimed rival, Yunyun, Megumin enrolls in the Red Prison: a prestigious academy for Crimson Demon magic users. There, she learns more about the secrets and history of her clan, as well as the threats and challenges they must face. As she polishes her power at the Red Prison with the help of her loyal familiar Chomusuke and her adorable little sister Komekko, Megumin aims to become the greatest explosion wizard of all time!",
-        "tags": ["Comedy", "Fantasy"],
-        "quality": "HD",
-        "release_year": "2023",
-        "link": "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2012%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
-        "play_list_id": "0000000002"
+        "links": [
+            "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2001%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
+            "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2002%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4",
+            "https://archive.org/22/items/kono-subarashii-sekai-ni-bakuen-wo-01-webrip-1920x-1080-x-264-aac-rus-jap/Kono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20%5B2023%5D%20%5BWEBRip%5D%20%5B1080p%5D%20%5BRUS%20%2B%20JAP%5D%2FKono%20Subarashii%20Sekai%20ni%20Bakuen%20wo%21%20-%2003%20%28WEBRip%201920x1080%20x264%20AAC%20Rus%20%2B%20Jap%29.mp4"
+        ]
     }
 ]
