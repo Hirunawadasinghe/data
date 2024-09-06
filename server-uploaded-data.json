@@ -1,8 +1,8 @@
 [
     {
         "movie_id": "0000000001",
-        "name": "Sasayaku You ni Koi wo Utau",
-        "alt_name": "Whisper Me a Love Song",
+        "name": "Whisper Me a Love Song",
+        "alt_name": "Sasayaku You ni Koi wo Utau",
         "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1455/141858.jpg",
         "description": "Yori Asanagi is a mature girl in many ways but is still pure when it comes to romance. That sentiment is proven when an underclassman, Himari Kino, suddenly confesses love to her after her band performance at the freshman opening ceremony.  Confused and surprised, Yori asks her friends for consultation, but they tease her by saying that she is experiencing love. Yori soon makes up her mind and tries to return Himari’s feelings, but in a twist of events, she realizes that what Himari loved was not her, but her music!  As Yori continues to pursue her love for Himari, she promises to make Himari fall for her. However, will this passionate love bloom or remain unrequited?",
         "language": "Japanese",
@@ -1590,6 +1590,23 @@
         ],
         "links": [
             "https://streamtape.com/e/78lx1ZRlR1f8QB/"
+        ]
+    },
+    {
+        "movie_id": "0000000057",
+        "name": "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
+        "alt_name": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1590/116274.jpg",
+        "description": "Excelling socially and academically, Asuna Yuuki is on track to ace her high school entrance exams. Her friend and classmate, Misumi \"Mito\" Tozawa, advises her to take a short break from studying and join her on the launch day of Sword Art Online (SAO)—the highly anticipated online virtual reality multiplayer game. Asuna accepts her offer and soon meets her in the game.  In a cruel twist of fate, Asuna, Mito, and every other player logged into SAO find themselves trapped in the game permanently. The only way out is to clear all one hundred floors of the game, and to make matters worse, dying inside the game will kill the player in real life. With SAO now turned into a nightmare death trap, Asuna and other gamers—such as the lone swordsman Kazuto \"Kirito\" Kirigaya—must adapt and survive, all whilst attempting to beat the unforgiving competition to the top.",
+        "language": "Japanese",
+        "release_year": "Oct 30, 2021",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Game"
+        ],
+        "links": [
+            "https://streamtape.com/e/3VDoQjYR7dIawG/"
         ]
     }
 ]
