@@ -1025,5 +1025,338 @@
         "type": "TV",
         "episodes": "1121",
         "condition": "Coming soon"
+    },
+    {
+        "movie_id": "0000000064",
+        "name": "A Silent Voice",
+        "alt_name": "Koe no Katachi",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+        "description": "As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye. Now in his third year of high school, Shouya is still plagued by his wrongdoings as a young boy. Sincerely regretting his past actions, he sets out on a journey of redemption: to meet Shouko once more and make amends. Koe no Katachi tells the heartwarming tale of Shouya's reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past.",
+        "language": "English",
+        "release_year": "Sep 17, 2016",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Award Winning",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "movie_id": "0000000065",
+        "name": "Death Note",
+        "alt_name": "Death Note",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+        "description": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten. For his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder. Aware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.",
+        "language": "English",
+        "release_year": "Oct 4, 2006",
+        "type": "TV",
+        "episodes": "37",
+        "tags": [
+            "Supernatural",
+            "Suspense"
+        ]
+    },
+    {
+        "movie_id": "0000000066",
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "alt_name": "Kimetsu no Yaiba",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+        "description": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night. When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.",
+        "language": "English",
+        "release_year": "Apr 6, 2019",
+        "type": "TV",
+        "episodes": "26",
+        "tags": [
+            "Action",
+            "Award Winning",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000067",
+        "name": "High School DxD",
+        "alt_name": "High School DxD",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1331/111940.jpg",
+        "description": "High school student Issei Hyoudou is your run-of-the-mill pervert who does nothing productive with his life, peeping on women and dreaming of having his own harem one day. Things seem to be looking up for Issei when a beautiful girl asks him out on a date, although she turns out to be a fallen angel who brutally kills him! However, he gets a second chance at life when beautiful senior student Rias Gremory, who is a top-class devil, revives him as her servant, recruiting Issei into the ranks of the school's Occult Research club. Slowly adjusting to his new life, Issei must train and fight in order to survive in the violent world of angels and devils. Each new adventure leads to many hilarious (and risqué) moments with his new comrades, all the while keeping his new life a secret from his friends and family in High School DxD!",
+        "language": "English",
+        "release_year": "Jan 6, 2012",
+        "type": "TV",
+        "episodes": "13",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ]
+    },
+    {
+        "movie_id": "0000000068",
+        "name": "Hunter x Hunter: Phantom Rouge",
+        "alt_name": "Hunter x Hunter Movie 1: Phantom Rouge",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/6/53073.jpg",
+        "description": "After completing their work at Yorknew City, Leorio Paladiknight and Kurapika investigate the rumored sightings of a boy with scarlet red eyes, as they believe this person to be a member of the now non-existent Kurta Clan. Kurapika hopes to find another survivor of the clan besides himself, but instead ends up losing both his eyes after an attack from someone who seems to be his childhood friend. Leorio tends to Kurapika's wounds, and then sends for both Gon Freecss and Killua Zoldyck to help retrieve Kurapika's eyeballs. However, their search brings them face-to-face with the infamous group of thieves known as Phantom Troupe—the same people who massacred the entire Kurta Clan five years ago for their scarlet eyes, which change color during moments of rage. Hunter x Hunter Movie 1: Phantom Rouge follows the boys' quest to locate their friend's eyes and catch the thief, causing them to delve deep into Phantom Troupe's past. And in doing so, they encounter a mysterious girl who appears to be linked to it all…",
+        "language": "English",
+        "release_year": "Jan 12, 2013",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000069",
+        "name": "Hunter x Hunter: The Last Mission",
+        "alt_name": "Hunter x Hunter Movie 2: The Last Mission",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/10/62337.jpg",
+        "description": "Nen: the hidden source of energy and potential that runs through everyone, and gives those that master it a source of great power. Inside Nen is the potential for limitless light and limitless darkness. The Hunter Association has arisen to control access to it. Hunters come in many shapes and forms, and with many different appetites - but all of them have learned to master Nen, and use it to chase wealth, power, and their dreams. The greatest and most powerful Hunter is Isaac Netero, chairman of the Hunter Association. Decades ago he sealed away Jed, a Hunter who had mastered the use of On, the dark \"shadow\" of Nen. Now On users have reappeared at the Heaven's Arena \"Battle Olympia\" tournament. For Netero, this is the last mission: to protect the Association and the world from a threat driven by hatred and the thirst for revenge. And he's going to need all the help he can get in order to succeed.",
+        "language": "English",
+        "release_year": "Dec 27, 2013",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000070",
+        "name": "I Want To Eat Your Pancreas",
+        "alt_name": "Kimi no Suizou wo Tabetai",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg",
+        "description": "The aloof protagonist: a bookworm who is deeply detached from the world he resides in. He has no interest in others and is firmly convinced that nobody has any interest in him either. His story begins when he stumbles across a handwritten book, titled Living with Dying. He soon identifies it as a secret diary belonging to his popular, bubbly classmate Sakura Yamauchi. She then confides in him about the pancreatic disease she is suffering from and that her time left is finite. Only her family knows about her terminal illness; not even her best friends are aware. Despite this revelation, he shows zero sympathy for her plight, but caught in the waves of Sakura's persistent buoyancy, he eventually concedes to accompanying her for her remaining days. As the pair of polar opposites interact, their connection strengthens, interweaving through their choices made with each passing day. Her apparent nonchalance and unpredictability disrupts the protagonist's impassive flow of life, gradually opening his heart as he discovers and embraces the true meaning of living.",
+        "language": "English",
+        "release_year": "Sep 1, 2018",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "movie_id": "0000000071",
+        "name": "Jujutsu Kaisen",
+        "alt_name": "Jujutsu Kaisen",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+        "description": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses. Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Prefectural Jujutsu High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.",
+        "language": "English",
+        "release_year": "Oct 3, 2020",
+        "type": "TV",
+        "episodes": "24",
+        "tags": [
+            "Action",
+            "Award Winning",
+            "Fantasy",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000072",
+        "name": "Kaiju No. 8",
+        "alt_name": "Kaijuu 8-gou",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1370/140362.jpg",
+        "description": "After the destruction of their hometown, childhood friends Kafka Hibino and Mina Ashiro make a pact to become officers in the Defense Force—a militarized organization tasked with protecting Japan from colossal monsters known as \"kaijuu.\" Decades later, the 32-year-old Kafka has all but given up on his dreams of heroism. Instead, he cleans up the remains of the slaughtered kaijuu after they are defeated by valiant soldiers—including Mina, who has successfully achieved their shared goal. Upon meeting his new coworker, Reno Ichikawa, Kafka faces a mirror of his past self: an ambitious young man whose one desire is to fight as a member of the Defense Force. Unfortunately, the two are soon involved in a freak encounter with a rogue kaijuu. Though Kafka demonstrates his innate heroic nature and rescues Reno from certain doom, he is left gravely injured. While both men recover in a hospital, Kafka is seemingly attacked by another one of the beasts. As a result, he gains the ability to transform into a humanoid kaijuu with the strength and powers of the massive monsters menacing Japan. Dubbed \"Kaijuu No. 8\" by the military, Kafka resolves to use his newfound gifts for the greater good. Tied together by mutual respect, Kafka and Reno set out to join warriors like Mina at the forefront of the Defense Force.",
+        "language": "English",
+        "release_year": "Apr 13, 2024",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Adult Cast",
+            "Military"
+        ]
+    },
+    {
+        "movie_id": "0000000073",
+        "name": "KonoSuba: God's Blessing on This Wonderful World! 2",
+        "alt_name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
+        "description": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then. Not only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina Ford \"Darkness\" Dustiness, a helpless masochist who makes Kazuma look pure in comparison. Kono Subarashii Sekai ni Shukufuku wo! 2 continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies.",
+        "language": "English",
+        "release_year": "Jan 12, 2017",
+        "type": "TV",
+        "episodes": "11",
+        "tags": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Isekai"
+        ]
+    },
+    {
+        "movie_id": "0000000074",
+        "name": "KonoSuba: God's Blessing on This Wonderful World! 3",
+        "alt_name": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1758/141268.jpg",
+        "description": "Kazuma Satou, former NEET and current reincarnated adventurer, finally returns home after the incident at the Crimson Demon village. He is joined by his ever-reliable companions: self-absorbed goddess Aqua, one-trick pony arch-wizard Megumin, and masochistic crusader Lalatina Ford \"Darkness\" Dustiness. Following their recent exploits, the party is one step closer to vanquishing the Demon King and his armies—a terrifying task that Kazuma is eager to ignore for as long as possible. Things, however, are not going as smoothly as the group would like; they are constantly racking up debt, getting sidetracked during missions, and falling into traps due to their recklessness and eccentricities.  As the party struggles with their perennial issues, they receive an invitation from a princess interested in hearing tales of the group's \"heroic\" deeds. Darkness' pleas to refuse the invitation only fire the others up to accept it, marking the start of yet another uncanny adventure with unforeseen consequences.",
+        "language": "English",
+        "release_year": "Apr 10, 2024",
+        "type": "TV",
+        "episodes": "11",
+        "tags": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Isekai"
+        ]
+    },
+    {
+        "movie_id": "0000000075",
+        "name": "KonoSuba: God's Blessing on This Wonderful World! 3",
+        "alt_name": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1758/141268.jpg",
+        "description": "Kazuma Satou, former NEET and current reincarnated adventurer, finally returns home after the incident at the Crimson Demon village. He is joined by his ever-reliable companions: self-absorbed goddess Aqua, one-trick pony arch-wizard Megumin, and masochistic crusader Lalatina Ford \"Darkness\" Dustiness. Following their recent exploits, the party is one step closer to vanquishing the Demon King and his armies—a terrifying task that Kazuma is eager to ignore for as long as possible. Things, however, are not going as smoothly as the group would like; they are constantly racking up debt, getting sidetracked during missions, and falling into traps due to their recklessness and eccentricities.  As the party struggles with their perennial issues, they receive an invitation from a princess interested in hearing tales of the group's \"heroic\" deeds. Darkness' pleas to refuse the invitation only fire the others up to accept it, marking the start of yet another uncanny adventure with unforeseen consequences.",
+        "language": "Japanese",
+        "release_year": "Apr 10, 2024",
+        "type": "TV",
+        "episodes": "11",
+        "tags": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Isekai"
+        ]
+    },
+    {
+        "movie_id": "0000000076",
+        "name": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
+        "alt_name": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1638/119321.jpg",
+        "description": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic. When Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang. There, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.",
+        "language": "English",
+        "release_year": "Aug 30, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Isekai"
+        ]
+    },
+    {
+        "movie_id": "0000000077",
+        "name": "Made in Abyss",
+        "alt_name": "Made in Abyss",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+        "description": "The Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. The best and bravest of the Divers, the White Whistles, are hailed as legends by those who remain on the surface. Riko, daughter of the missing White Whistle Lyza the Annihilator, aspires to become like her mother and explore the furthest reaches of the Abyss. However, just a novice Red Whistle herself, she is only permitted to roam its most upper layer. Even so, Riko has a chance encounter with a mysterious robot with the appearance of an ordinary young boy. She comes to name him Reg, and he has no recollection of the events preceding his discovery. Certain that the technology to create Reg must come from deep within the Abyss, the two decide to venture forth into the chasm to recover his memories and see the bottom of the great pit with their own eyes. However, they know not of the harsh reality that is the true existence of the Abyss.",
+        "language": "English",
+        "release_year": "Jul 7, 2017",
+        "type": "TV",
+        "episodes": "13",
+        "tags": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "movie_id": "0000000078",
+        "name": "Made in Abyss: Journey's Dawn",
+        "alt_name": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1173/95167.jpg",
+        "description": "The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.",
+        "language": "English",
+        "release_year": "Jan 4, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "movie_id": "0000000079",
+        "name": "Made in Abyss: Wandering Twilight",
+        "alt_name": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1336/95168.jpg",
+        "description": "The movie is a compilation of episodes 9-13 of the 2017 television series. Riko and Reg descend to the third layer where Riko has her first experience of the Curse. They descend to the fourth layer where Riko's arm is injured by an Orbed Piercer and Reg tries to save her. Nanachi comes to their aid and saves Riko's poisoned arm. In return Nanachi asks Reg to kill her immortal companion Mitty. Nanachi then joins Riko and Reg in their quest to reach the bottom of the Abyss.",
+        "language": "English",
+        "release_year": "Jan 18, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "movie_id": "0000000080",
+        "name": "One Piece Film: Gold",
+        "alt_name": "One Piece Film: Gold",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1081/137690.jpg",
+        "description": "Monkey D. Luffy and his Straw Hat Crew have finally arrived on Gran Tesoro, a ship carrying the largest entertainment city in the world. Drawn in by the chances of hitting the jackpot, the crew immediately head to the casino. There, they quickly find themselves on a winning streak, playing with what seems to be endless luck. When offered a special gamble by Gild Tesoro—the master of the city himself—the crew agrees, choosing to believe in their captain's luck. However, when they find themselves victims of a despicable scam, the crew quickly realize that there is something darker happening beneath the city's surface. Left penniless and beaten down, the Straw Hat Crew are forced to rely on another gamble of a plan. With the help of a new friend or two, the group must work to reclaim what they've lost before time, and what remains of their luck, runs out.",
+        "language": "English",
+        "release_year": "Jul 23, 2016",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000081",
+        "name": "One Piece: Stampede",
+        "alt_name": "One Piece Movie 14: Stampede",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg",
+        "description": "Monkey D. Luffy and the Straw Hats arrive aboard the Sunny to the Pirates Festival, the world's largest celebration created by and for pirates. Buena Festa, the festival organizer, invites the Straw Hats and all Worst Generation crews to partake in the festivities. Luring even Shichibukai and Marines to its shores, it seems that no pirate or sailor can resist the enticing secrets that the event hides behind its glamor. The festival's contest is simple: find one of the treasures Gol D. Roger left behind. As the competition progresses, the various pirate crews fight each other in a free-for-all battle royale—that is, until the sudden appearance of an unexpected pirate drastically changes the game.",
+        "language": "English",
+        "release_year": "Aug 9, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000082",
+        "name": "The Girl Who Leapt Through Time",
+        "alt_name": "Toki wo Kakeru Shoujo",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+        "description": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time. Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.",
+        "language": "English",
+        "release_year": "Jul 15, 2006",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Award Winning",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Time Travel"
+        ]
+    },
+    {
+        "movie_id": "0000000083",
+        "name": "Weathering with You",
+        "alt_name": "Tenki no Ko",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1880/101146.jpg",
+        "description": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother. Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo's unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a \"sunshine girl\"—someone who will clear the sky for people when they need it the most. Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...",
+        "language": "English",
+        "release_year": "Jul 19, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Award Winning",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ]
     }
 ]
