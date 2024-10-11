@@ -1408,5 +1408,22 @@
             "Horror",
             "Suspense"
         ]
+    },
+    {
+        "movie_id": "0000000087",
+        "name": "Dragon Ball Daima",
+        "alt_name": "Dragon Ball Daima",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1723/145231.jpg",
+        "description": "Due to a conspiracy, Goku and his friends are turned small. What sort of adventure awaits Goku, Supreme Kai, and the new characters Glorio and Panzy in this unknown world, the \"Demon Realm\"?",
+        "language": "Japanese",
+        "release_year": "Oct 11, 2024",
+        "type": "TV",
+        "episodes": "Unknown",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
     }
 ]
