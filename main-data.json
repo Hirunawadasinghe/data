@@ -1425,5 +1425,37 @@
             "Comedy",
             "Fantasy"
         ]
+    },
+    {
+        "movie_id": "0000000088",
+        "name": "Alya Sometimes Hides Her Feelings in Russian",
+        "alt_name": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1825/142258.jpg",
+        "description": "Seirei Academy is a prestigious school attended by the very best students in Japan. Alisa Mikhailovna \"Alya\" Kujou, the half-Russian and half-Japanese treasurer of the school's student council, is known for her intelligence, stunning looks, and rigid personality. Contrasting her near-flawless persona, Alya's unmotivated classmate Masachika Kuze slacks off during lessons and seems to show no interest in her.  Initially irritated, Alya gradually becomes more intrigued by Masachika and starts expressing her affection for him in Russian. However, she is oblivious to his secret—he understands the language fluently! Due to a childhood friend who was temporarily staying in Japan, Masachika has been studying Russian in hopes of reuniting with her.  As the two spend more time together, the playful and eccentric relationship between them quickly deepens. In the meantime, both must learn to navigate their new growing feelings for one another.",
+        "language": "Japanese",
+        "release_year": "Jul 3, 2024",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "School",
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "movie_id": "0000000089",
+        "name": "Alya Sometimes Hides Her Feelings in Russian",
+        "alt_name": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1825/142258.jpg",
+        "description": "Seirei Academy is a prestigious school attended by the very best students in Japan. Alisa Mikhailovna \"Alya\" Kujou, the half-Russian and half-Japanese treasurer of the school's student council, is known for her intelligence, stunning looks, and rigid personality. Contrasting her near-flawless persona, Alya's unmotivated classmate Masachika Kuze slacks off during lessons and seems to show no interest in her.  Initially irritated, Alya gradually becomes more intrigued by Masachika and starts expressing her affection for him in Russian. However, she is oblivious to his secret—he understands the language fluently! Due to a childhood friend who was temporarily staying in Japan, Masachika has been studying Russian in hopes of reuniting with her.  As the two spend more time together, the playful and eccentric relationship between them quickly deepens. In the meantime, both must learn to navigate their new growing feelings for one another.",
+        "language": "English",
+        "release_year": "Jul 3, 2024",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "School",
+            "Comedy",
+            "Romance"
+        ]
     }
 ]
