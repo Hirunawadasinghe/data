@@ -1847,5 +1847,21 @@
             "Action",
             "School"
         ]
+    },
+    {
+        "movie_id": "0000000115",
+        "name": "Pseudo Harem",
+        "alt_name": "Giji Harem",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1607/143547.jpg",
+        "description": "Eiji Kitahama has a dream shared by many high school guys: to be popular and have a harem of girls fawning over him. Luckily for him, his new junior in the drama club, Rin Nanakura, has decided to help him realize this wish. Using her impressive acting abilities, she takes on many personalities, from teasing to calm and collected, to play characters in Eiji's simulated harem.  As her connection with Eiji deepens, Rin expands her repertoire, quickly swapping between characters while enjoying high school life together in the club. Through her acting, the real Rin Nanakura tries her best to win Eiji's heart.",
+        "language": "Japanese",
+        "release_year": "Jul 5, 2024",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Comedy",
+            "Romance",
+            "School"
+        ]
     }
 ]
