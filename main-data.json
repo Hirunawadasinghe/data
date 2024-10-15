@@ -1895,5 +1895,33 @@
             "Drama",
             "Romance"
         ]
+    },
+    {
+        "movie_id": "0000000118",
+        "name": "Blue Lock 2nd Season",
+        "alt_name": "Blue Lock vs. U-20 Japan",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1584/144860.jpg",
+        "description": "Second season of Blue Lock.",
+        "language": "Japanese",
+        "release_year": "Oct 6, 2024",
+        "type": "TV",
+        "episodes": "14",
+        "tags": [
+            "Sports"
+        ]
+    },
+    {
+        "movie_id": "0000000119",
+        "name": "Blue Lock: Episode Nagi",
+        "alt_name": "Blue Lock: Episode Nagi",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1239/139928.jpg",
+        "description": "A spin-off of Blue Lock focusing on Seishirou Nagi.",
+        "language": "Japanese",
+        "release_year": "Apr 19, 2024",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Sports"
+        ]
     }
 ]
