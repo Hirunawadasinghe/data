@@ -1951,5 +1951,19 @@
         "tags": [
             "Sports"
         ]
+    },
+    {
+        "movie_id": "0000000122",
+        "name": "Blue Lock 2nd Season",
+        "alt_name": "Blue Lock vs. U-20 Japan",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1584/144860.jpg",
+        "description": "Second season of Blue Lock.",
+        "language": "English",
+        "release_year": "Oct 6, 2024",
+        "type": "TV",
+        "episodes": "14",
+        "tags": [
+            "Sports"
+        ]
     }
 ]
