@@ -270,7 +270,7 @@
             "Fantasy"
         ],
         "type": "TV",
-        "episodes": "23"
+        "episodes": "153"
     },
     {
         "movie_id": "0000000018",
@@ -288,7 +288,7 @@
             "Ecchi"
         ],
         "type": "TV",
-        "episodes": "13"
+        "episodes": "12"
     },
     {
         "movie_id": "0000000019",
@@ -1023,8 +1023,7 @@
             "Fantasy"
         ],
         "type": "TV",
-        "episodes": "1121",
-        "condition": "Coming soon"
+        "episodes": "1122"
     },
     {
         "movie_id": "0000000064",
@@ -2772,6 +2771,523 @@
         "tags": [
             "Action",
             "Sci-Fi"
+        ]
+    },
+    {
+        "movie_id": "0000000173",
+        "name": "Shikimori's Not Just a Cutie",
+        "alt_name": "Kawaii dake ja Nai Shikimori-san",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1995/121695.jpg",
+        "description": "Yuu Izumi leads a high school life filled with one mishap after another. No matter how improbable the situation, unfortunate events strike him at every turn. In possession of such terrible luck, Izumi enters his second year with a single wish in mind—to spend more time with his affectionate girlfriend, Micchon Shikimori.  Cute, athletic, and caring, Shikimori is immensely popular at their school. But since they began dating a year ago, Izumi has witnessed a surprising side to his otherwise adorable girlfriend: when the need arises, she turns incredibly cool! His misfortunes are easily avoided when she is there to protect him with an awe-inspiring look on her face. Charming in every way, she never ceases to make his heart skip a beat. Unfortunate as he may be, Izumi is sure to see his days of bad luck end thanks to the cute yet cool Shikimori.",
+        "language": "Japanese",
+        "release_year": "Apr 10, 2022",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Comedy",
+            "Romance",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000174",
+        "name": "Shikimori's Not Just a Cutie",
+        "alt_name": "Kawaii dake ja Nai Shikimori-san",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1995/121695.jpg",
+        "description": "Yuu Izumi leads a high school life filled with one mishap after another. No matter how improbable the situation, unfortunate events strike him at every turn. In possession of such terrible luck, Izumi enters his second year with a single wish in mind—to spend more time with his affectionate girlfriend, Micchon Shikimori.  Cute, athletic, and caring, Shikimori is immensely popular at their school. But since they began dating a year ago, Izumi has witnessed a surprising side to his otherwise adorable girlfriend: when the need arises, she turns incredibly cool! His misfortunes are easily avoided when she is there to protect him with an awe-inspiring look on her face. Charming in every way, she never ceases to make his heart skip a beat. Unfortunate as he may be, Izumi is sure to see his days of bad luck end thanks to the cute yet cool Shikimori.",
+        "language": "English",
+        "release_year": "Apr 10, 2022",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Comedy",
+            "Romance",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000175",
+        "name": "Paprika",
+        "alt_name": "Paprika",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg",
+        "description": "The world of dreams can be an incredible window into the psyche, showing one's deepest desires, aspirations, and repressed memories. One hopeful tech lab has been developing the \"DC Mini,\" a device with the power to delve into the dreams of others. Atsuko Chiba and Kosaku Tokita have been tirelessly working to develop this technology with the hopes of using it to deeply explore patients' minds and help cure them of their psychological disorders.  However, having access to the deepest corners of a person's mind comes with a tremendous responsibility. In the wrong hands, the DC Mini could be used as a form of psychological terrorism and cause mental breakdowns in the minds of targets. When this technology is stolen and people around them start acting strangely, Atsuko and Kosaku know they have a serious problem on their hands. Enlisting the help of Officer Konakawa, who has been receiving this experimental therapy, they search both the real and dream worlds for their mental terrorist.",
+        "language": "Japanese",
+        "release_year": "Nov 25, 2006",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Avant Garde",
+            "Award Winning",
+            "Mystery",
+            "Sci-Fi",
+            "Suspense",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000176",
+        "name": "Paprika",
+        "alt_name": "Paprika",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg",
+        "description": "The world of dreams can be an incredible window into the psyche, showing one's deepest desires, aspirations, and repressed memories. One hopeful tech lab has been developing the \"DC Mini,\" a device with the power to delve into the dreams of others. Atsuko Chiba and Kosaku Tokita have been tirelessly working to develop this technology with the hopes of using it to deeply explore patients' minds and help cure them of their psychological disorders.  However, having access to the deepest corners of a person's mind comes with a tremendous responsibility. In the wrong hands, the DC Mini could be used as a form of psychological terrorism and cause mental breakdowns in the minds of targets. When this technology is stolen and people around them start acting strangely, Atsuko and Kosaku know they have a serious problem on their hands. Enlisting the help of Officer Konakawa, who has been receiving this experimental therapy, they search both the real and dream worlds for their mental terrorist.",
+        "language": "English",
+        "release_year": "Nov 25, 2006",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Avant Garde",
+            "Award Winning",
+            "Mystery",
+            "Sci-Fi",
+            "Suspense",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000177",
+        "name": "Tamako Love Story",
+        "alt_name": "Tamako Love Story",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1417/91333.jpg",
+        "description": "As the seasons pass by, the end of Mochizou Ooji's third and final school year quickly approaches. He aims to study at a university in Tokyo, but at the cost of leaving behind his loved ones—including his beloved childhood crush, Tamako Kitashirakawa. Having no such plans for the future, Tamako will merely remain in town to work at her family's humble mochi shop.  As the time for Mochizou's departure draws closer, the reserved young man must gather up the courage to confess his feelings to Tamako before it is too late—lest his love go unnoticed forever.",
+        "language": "Japanese",
+        "release_year": "Apr 26, 2014",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Award Winning",
+            "Romance",
+            "Slice of Life"
+        ]
+    },
+    {
+        "movie_id": "0000000178",
+        "name": "Tamako Love Story",
+        "alt_name": "Tamako Love Story",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1417/91333.jpg",
+        "description": "As the seasons pass by, the end of Mochizou Ooji's third and final school year quickly approaches. He aims to study at a university in Tokyo, but at the cost of leaving behind his loved ones—including his beloved childhood crush, Tamako Kitashirakawa. Having no such plans for the future, Tamako will merely remain in town to work at her family's humble mochi shop.  As the time for Mochizou's departure draws closer, the reserved young man must gather up the courage to confess his feelings to Tamako before it is too late—lest his love go unnoticed forever.",
+        "language": "English",
+        "release_year": "Apr 26, 2014",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Award Winning",
+            "Romance",
+            "Slice of Life"
+        ]
+    },
+    {
+        "movie_id": "0000000179",
+        "name": "Jujutsu Kaisen Season 2",
+        "alt_name": "Jujutsu Kaisen 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+        "description": "The year is 2006, and the halls of Tokyo Prefectural Jujutsu High School echo with the endless bickering and intense debate between two inseparable best friends. Exuding unshakeable confidence, Satoru Gojou and Suguru Getou believe there is no challenge too great for young and powerful Special Grade sorcerers such as themselves. They are tasked with safely delivering a sensible girl named Riko Amanai to the entity whose existence is the very essence of the jujutsu world. However, the mission plunges them into an exhausting swirl of moral conflict that threatens to destroy the already feeble amity between sorcerers and ordinary humans.  Twelve years later, students and sorcerers are the frontline defense against the rising number of high-level curses born from humans' negative emotions. As the entities grow in power, their self-awareness and ambition increase too. The curses unite for the common goal of eradicating humans and creating a world of only cursed energy users, led by a dangerous, ancient cursed spirit. To dispose of their greatest obstacle—the strongest sorcerer, Gojou—they orchestrate an attack at Shibuya Station on Halloween. Dividing into teams, the sorcerers enter the fight prepared to risk everything to protect the innocent and their own kind.",
+        "language": "Japanese",
+        "release_year": "Jul 6, 2023",
+        "type": "TV",
+        "episodes": "23",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "Gore",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000180",
+        "name": "Jujutsu Kaisen Season 2",
+        "alt_name": "Jujutsu Kaisen 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+        "description": "The year is 2006, and the halls of Tokyo Prefectural Jujutsu High School echo with the endless bickering and intense debate between two inseparable best friends. Exuding unshakeable confidence, Satoru Gojou and Suguru Getou believe there is no challenge too great for young and powerful Special Grade sorcerers such as themselves. They are tasked with safely delivering a sensible girl named Riko Amanai to the entity whose existence is the very essence of the jujutsu world. However, the mission plunges them into an exhausting swirl of moral conflict that threatens to destroy the already feeble amity between sorcerers and ordinary humans.  Twelve years later, students and sorcerers are the frontline defense against the rising number of high-level curses born from humans' negative emotions. As the entities grow in power, their self-awareness and ambition increase too. The curses unite for the common goal of eradicating humans and creating a world of only cursed energy users, led by a dangerous, ancient cursed spirit. To dispose of their greatest obstacle—the strongest sorcerer, Gojou—they orchestrate an attack at Shibuya Station on Halloween. Dividing into teams, the sorcerers enter the fight prepared to risk everything to protect the innocent and their own kind.",
+        "language": "English",
+        "release_year": "Jul 6, 2023",
+        "type": "TV",
+        "episodes": "23",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "Gore",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000181",
+        "name": "Jujutsu Kaisen 0",
+        "alt_name": "Jujutsu Kaisen 0 Movie",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg",
+        "description": "Violent misfortunes frequently occur around 16-year-old Yuuta Okkotsu, a timid victim of high school bullying. Yuuta is saddled with a monstrous curse, a power that dishes out brutal revenge against his bullies. Rika Orimoto, Yuuta's curse, is a shadow from his tragic childhood and a potentially lethal threat to anyone who dares wrong him.  Yuuta's unique situation catches the attention of Satoru Gojou, a powerful sorcerer who teaches at Tokyo Prefectural Jujutsu High School. Gojou sees immense potential in Yuuta, and he hopes to help the boy channel his deadly burden into a force for good. Yet Yuuta struggles to find his place among his talented classmates: the selectively mute Toge Inumaki, weapons expert Maki Zenin, and Panda.  Yuuta clumsily utilizes Rika on missions with the other first-year students, but the grisly aftermath of Rika's tremendous displays of power draws the interest of the calculating curse user Suguru Getou. As Getou strives to claim Rika's strength and use it to eliminate all non-jujutsu users from the world, Yuuta fights alongside his friends to stop the genocidal plot.",
+        "language": "Japanese",
+        "release_year": "Dec 24, 2021",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000182",
+        "name": "Jujutsu Kaisen 0",
+        "alt_name": "Jujutsu Kaisen 0 Movie",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg",
+        "description": "Violent misfortunes frequently occur around 16-year-old Yuuta Okkotsu, a timid victim of high school bullying. Yuuta is saddled with a monstrous curse, a power that dishes out brutal revenge against his bullies. Rika Orimoto, Yuuta's curse, is a shadow from his tragic childhood and a potentially lethal threat to anyone who dares wrong him.  Yuuta's unique situation catches the attention of Satoru Gojou, a powerful sorcerer who teaches at Tokyo Prefectural Jujutsu High School. Gojou sees immense potential in Yuuta, and he hopes to help the boy channel his deadly burden into a force for good. Yet Yuuta struggles to find his place among his talented classmates: the selectively mute Toge Inumaki, weapons expert Maki Zenin, and Panda.  Yuuta clumsily utilizes Rika on missions with the other first-year students, but the grisly aftermath of Rika's tremendous displays of power draws the interest of the calculating curse user Suguru Getou. As Getou strives to claim Rika's strength and use it to eliminate all non-jujutsu users from the world, Yuuta fights alongside his friends to stop the genocidal plot.",
+        "language": "English",
+        "release_year": "Dec 24, 2021",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000183",
+        "name": "Jujutsu Kaisen Season 2 Recaps",
+        "alt_name": "Jujutsu Kaisen 2nd Season Recaps",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+        "description": "Recap episodes of Jujutsu Kaisen, Jujutsu Kaisen 0, and the first five episodes of Jujutsu Kaisen 2nd Season.",
+        "language": "Japanese",
+        "release_year": "Aug 11, 2023",
+        "type": "TV",
+        "episodes": "2",
+        "tags": [
+            "Action",
+            "Supernatural",
+            "School"
+        ]
+    },
+    {
+        "movie_id": "0000000184",
+        "name": "Dororo",
+        "alt_name": "Dororo",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+        "description": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.  This child is disposed of in a river and forgotten. But as luck would have it, he is saved by a medicine man who provides him with prosthetics and weapons, allowing for him to survive and fend for himself. The boy lives and grows, and although he cannot see, hear, or feel anything, he must defeat the demons that took him as sacrifice. With the death of each one, he regains a part of himself that is rightfully his. For many years he wanders alone, until one day an orphan boy, Dororo, befriends him. The unlikely pair of castaways now fight for their survival and humanity in an unforgiving, demon-infested world.",
+        "language": "Japanese",
+        "release_year": "Jan 7, 2019",
+        "type": "TV",
+        "episodes": "24",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000185",
+        "name": "Dororo",
+        "alt_name": "Dororo",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+        "description": "The greedy samurai lord Daigo Kagemitsu's land is dying, and he would do anything for power, even renounce Buddha and make a pact with demons. His prayers are answered by 12 demons who grant him the power he desires by aiding his prefecture's growth, but at a price. When Kagemitsu's first son is born, the boy has no limbs, no nose, no eyes, no ears, nor even skin—yet still, he lives.  This child is disposed of in a river and forgotten. But as luck would have it, he is saved by a medicine man who provides him with prosthetics and weapons, allowing for him to survive and fend for himself. The boy lives and grows, and although he cannot see, hear, or feel anything, he must defeat the demons that took him as sacrifice. With the death of each one, he regains a part of himself that is rightfully his. For many years he wanders alone, until one day an orphan boy, Dororo, befriends him. The unlikely pair of castaways now fight for their survival and humanity in an unforgiving, demon-infested world.",
+        "language": "English",
+        "release_year": "Jan 7, 2019",
+        "type": "TV",
+        "episodes": "24",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000186",
+        "name": "Terror in Resonance",
+        "alt_name": "Zankyou no Terror",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg",
+        "description": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless—until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.  Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.",
+        "language": "Japanese",
+        "release_year": "Jul 11, 2014",
+        "type": "TV",
+        "episodes": "11",
+        "tags": [
+            "Mystery",
+            "Suspense"
+        ]
+    },
+    {
+        "movie_id": "0000000187",
+        "name": "Terror in Resonance",
+        "alt_name": "Zankyou no Terror",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg",
+        "description": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless—until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.  Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.",
+        "language": "English",
+        "release_year": "Jul 11, 2014",
+        "type": "TV",
+        "episodes": "11",
+        "tags": [
+            "Mystery",
+            "Suspense"
+        ]
+    },
+    {
+        "movie_id": "0000000188",
+        "name": "Summer Time Rendering",
+        "alt_name": "Summertime Render",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+        "description": "Since the death of his parents, Shinpei Ajiro had lived with the Kofune family and their two daughters—Mio and Ushio. Although he then left his home island to continue his education in Tokyo, Shinpei returns after Ushio tragically drowns during the attempted rescue of a little girl. During the funeral, his best friend informs him about bruises found around Ushio's neck, casting doubt over the cause of her death.  Suspecting a murder has taken place, Shinpei reevaluates recent events, but strange incidents only continue to transpire. Disappearing people and other unexplainable occurrences lead Mio to recall an old folktale referring to entities called \"Shadows,\" which may not be entirely fantasy. Supposedly, an encounter with one's Shadow foretells the person's impending demise.  Facing the dark side of Hitogashima Island, Shinpei stands against his grim fate to fulfill Ushio's final will—to protect Mio.",
+        "language": "Japanese",
+        "release_year": "Apr 15, 2022",
+        "type": "TV",
+        "episodes": "25",
+        "tags": [
+            "Mystery",
+            "Supernatural",
+            "Suspense",
+            "Time Travel"
+        ]
+    },
+    {
+        "movie_id": "0000000189",
+        "name": "Summer Time Rendering",
+        "alt_name": "Summertime Render",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+        "description": "Since the death of his parents, Shinpei Ajiro had lived with the Kofune family and their two daughters—Mio and Ushio. Although he then left his home island to continue his education in Tokyo, Shinpei returns after Ushio tragically drowns during the attempted rescue of a little girl. During the funeral, his best friend informs him about bruises found around Ushio's neck, casting doubt over the cause of her death.  Suspecting a murder has taken place, Shinpei reevaluates recent events, but strange incidents only continue to transpire. Disappearing people and other unexplainable occurrences lead Mio to recall an old folktale referring to entities called \"Shadows,\" which may not be entirely fantasy. Supposedly, an encounter with one's Shadow foretells the person's impending demise.  Facing the dark side of Hitogashima Island, Shinpei stands against his grim fate to fulfill Ushio's final will—to protect Mio.",
+        "language": "English",
+        "release_year": "Apr 15, 2022",
+        "type": "TV",
+        "episodes": "25",
+        "tags": [
+            "Mystery",
+            "Supernatural",
+            "Suspense",
+            "Time Travel"
+        ]
+    },
+    {
+        "movie_id": "0000000190",
+        "name": "Id:Invaded",
+        "alt_name": "Id:Invaded",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+        "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.  Not just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.  Nevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.",
+        "language": "Japanese",
+        "release_year": "Jan 6, 2020",
+        "type": "TV",
+        "episodes": "13",
+        "tags": [
+            "Mystery",
+            "Sci-Fi",
+            "Suspense",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000191",
+        "name": "Id:Invaded",
+        "alt_name": "Id:Invaded",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+        "description": "The Mizuhanome System is a highly advanced development that allows people to enter one of the most intriguing places in existence—the human mind. Through the use of so-called \"cognition particles\" left behind at a crime scene by the perpetrator, detectives from the specialized police squad Kura can manifest a criminal's unconscious mind as a bizarre stream of thoughts in a virtual world. Their task is to explore this psychological plane, called an \"id well,\" to reveal the identity of the culprit.  Not just anyone can enter the id wells; the prerequisite is that you must have killed someone yourself. Such is the case for former detective Akihito Narihisago, who is known as \"Sakaido\" inside the id wells. Once a respected member of the police, tragedy struck, and he soon found himself on the other side of the law.  Nevertheless, Narihisago continues to assist Kura in confinement. While his prodigious detective skills still prove useful toward investigations, Narihisago discovers that not everything is as it seems, as behind the seemingly standalone series of murder cases lurks a much more sinister truth.",
+        "language": "English",
+        "release_year": "Jan 6, 2020",
+        "type": "TV",
+        "episodes": "13",
+        "tags": [
+            "Mystery",
+            "Sci-Fi",
+            "Suspense",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000192",
+        "name": "One Punch Man",
+        "alt_name": "One Punch Man",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+        "description": "The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.  One day, Saitama catches the attention of 19-year-old cyborg Genos, who witnesses his power and wishes to become Saitama's disciple. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society. Saitama, who is shocked that no one knows who he is, quickly agrees. Meeting new allies and taking on new foes, Saitama embarks on a new journey as a member of the Hero Association to experience the excitement of battle he once felt.",
+        "language": "English",
+        "release_year": "Oct 5, 2015",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000193",
+        "name": "One Punch Man Specials",
+        "alt_name": "One Punch Man Specials",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1452/97840.jpg",
+        "description": "The One Punch Man Specials are anime-exclusive stories written by original creator ONE. They take place between the episodes of the TV anime.",
+        "language": "Japanese",
+        "release_year": "Dec 24, 2015",
+        "type": "TV",
+        "episodes": "6",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000194",
+        "name": "One Punch Man Specials",
+        "alt_name": "One Punch Man Specials",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1452/97840.jpg",
+        "description": "The One Punch Man Specials are anime-exclusive stories written by original creator ONE. They take place between the episodes of the TV anime.",
+        "language": "English",
+        "release_year": "Dec 24, 2015",
+        "type": "TV",
+        "episodes": "6",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000195",
+        "name": "One Punch Man Season 2",
+        "alt_name": "One Punch Man 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+        "description": "In the wake of defeating Boros and his mighty army, Saitama has returned to his unremarkable everyday life in Z-City. However, unbeknownst to him, the number of monsters appearing is still continuously on the rise, putting a strain on the Hero Association's resources. Their top executives decide on the bold move of recruiting hoodlums in order to help in their battle. But during the first meeting with these potential newcomers, a mysterious man calling himself Garou makes his appearance. Claiming to be a monster, he starts mercilessly attacking the crowd.  The mysterious Garou continues his rampage against the Hero Association, crushing every hero he encounters. He turns out to be the legendary martial artist Silverfang's best former disciple and seems driven by unknown motives. Regardless, this beast of a man seems unstoppable. Intrigued by this puzzling new foe and with an insatiable thirst for money, Saitama decides to seize the opportunity and joins the interesting martial arts competition.  As the tournament commences and Garou continues his rampage, a new great menace reveals itself, threatening the entire human world. Could this finally be the earth-shattering catastrophe predicted by the great seer Madame Shibabawa?",
+        "language": "Japanese",
+        "release_year": "Apr 10, 2019",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000196",
+        "name": "One Punch Man Season 2",
+        "alt_name": "One Punch Man 2nd Season",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+        "description": "In the wake of defeating Boros and his mighty army, Saitama has returned to his unremarkable everyday life in Z-City. However, unbeknownst to him, the number of monsters appearing is still continuously on the rise, putting a strain on the Hero Association's resources. Their top executives decide on the bold move of recruiting hoodlums in order to help in their battle. But during the first meeting with these potential newcomers, a mysterious man calling himself Garou makes his appearance. Claiming to be a monster, he starts mercilessly attacking the crowd.  The mysterious Garou continues his rampage against the Hero Association, crushing every hero he encounters. He turns out to be the legendary martial artist Silverfang's best former disciple and seems driven by unknown motives. Regardless, this beast of a man seems unstoppable. Intrigued by this puzzling new foe and with an insatiable thirst for money, Saitama decides to seize the opportunity and joins the interesting martial arts competition.  As the tournament commences and Garou continues his rampage, a new great menace reveals itself, threatening the entire human world. Could this finally be the earth-shattering catastrophe predicted by the great seer Madame Shibabawa?",
+        "language": "English",
+        "release_year": "Apr 10, 2019",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000197",
+        "name": "One Punch Man Season 2 Specials",
+        "alt_name": "One Punch Man 2nd Season Specials",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1618/103829.jpg",
+        "description": "Saitama meets a group of villains in a public restroom who mistake him for their ally, they introduce themselves to Saitama, but when he reveals he's a hero, attempt to defeat him.",
+        "language": "Japanese",
+        "release_year": "Oct 25, 2019",
+        "type": "TV",
+        "episodes": "6",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000198",
+        "name": "One Punch Man Season 2 Specials",
+        "alt_name": "One Punch Man 2nd Season Specials",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1618/103829.jpg",
+        "description": "Saitama meets a group of villains in a public restroom who mistake him for their ally, they introduce themselves to Saitama, but when he reveals he's a hero, attempt to defeat him.",
+        "language": "English",
+        "release_year": "Oct 25, 2019",
+        "type": "TV",
+        "episodes": "6",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adult Cast"
+        ]
+    },
+    {
+        "movie_id": "0000000199",
+        "name": "One Punch Man: Road to Hero",
+        "alt_name": "One Punch Man: Road to Hero",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1802/124744.jpg",
+        "description": "Before Saitama became the man he is today, he trained and fought endlessly to become a hero. While every scuffle leaves his tracksuit uniform in tatters, he always has it mended for free thanks to his local tailor. One day, however, the tailor informs him that he must close up shop due to pressure from a local gang. Saitama decides to help him out—and gains something irreplaceable in the process.",
+        "language": "Japanese",
+        "release_year": "Dec 4, 2015",
+        "type": "OVA",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Comedy"
+        ]
+    },
+    {
+        "movie_id": "0000000200",
+        "name": "One Punch Man Season 2 Commemorative Special",
+        "alt_name": "One Punch Man 2nd Season Commemorative Special",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1550/123539.jpg",
+        "description": "One Punch Man 2nd Season's commemorative recap special.",
+        "language": "Japanese",
+        "release_year": "Apr 3, 2019",
+        "type": "TV",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Comedy"
+        ]
+    },
+    {
+        "movie_id": "0000000201",
+        "name": "One Piece Fan Letter",
+        "alt_name": "One Piece Fan Letter",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1455/146229.jpg",
+        "description": "Two years after the Summit War in which Straw Hat pirate Luffy lost his brother Ace, the story takes place on the Sabaody Archipelago. The protagonist, a young girl who has a strong admiration for Nami, sets off on a small adventure. This is an ensemble drama that focuses on people who do not \"pursue\" ONE PIECE, depicting the reunion of the Straw Hat Pirates from their perspective.",
+        "language": "Japanese",
+        "release_year": "Oct 20, 2024",
+        "type": "TV",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "movie_id": "0000000202",
+        "name": "Haikyu!! Movie: The Dumpster Battle  Edit",
+        "alt_name": "Haikyuu!! Movie: Gomisuteba no Kessen",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1665/140360.jpg",
+        "description": "Kenma Kozume has never considered volleyball fun or thrilling: it is merely something he is good at. But now Nekoma High School's volleyball team has qualified for the Spring Nationals and prepares to battle their long-standing rivals—Karasuno. Now, Kenma has to analyze the most confounding and resilient team and lead Nekoma to victory against them. Moreover, he will play against his friend Shouyou Hinata, Karasuno's short but incredibly proficient middle blocker.  Karasuno has never been able to beat Nekoma in practice matches. Even so, despite his usual indifference, Kenma feels a tinge of excitement at the prospect of facing Karasuno in a high-stakes official game with no do-overs. To advance to the semifinals and ultimately restore their team's former glory, Karasuno must find a way to overcome Kenma's brilliant strategy and defeat Nekoma in their own territory.",
+        "language": "Japanese",
+        "release_year": "Feb 16, 2024",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "School",
+            "Sports"
+        ]
+    },
+    {
+        "movie_id": "0000000203",
+        "name": "Haikyu!! Movie: The Dumpster Battle  Edit",
+        "alt_name": "Haikyuu!! Movie: Gomisuteba no Kessen",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1665/140360.jpg",
+        "description": "Kenma Kozume has never considered volleyball fun or thrilling: it is merely something he is good at. But now Nekoma High School's volleyball team has qualified for the Spring Nationals and prepares to battle their long-standing rivals—Karasuno. Now, Kenma has to analyze the most confounding and resilient team and lead Nekoma to victory against them. Moreover, he will play against his friend Shouyou Hinata, Karasuno's short but incredibly proficient middle blocker.  Karasuno has never been able to beat Nekoma in practice matches. Even so, despite his usual indifference, Kenma feels a tinge of excitement at the prospect of facing Karasuno in a high-stakes official game with no do-overs. To advance to the semifinals and ultimately restore their team's former glory, Karasuno must find a way to overcome Kenma's brilliant strategy and defeat Nekoma in their own territory.",
+        "language": "English",
+        "release_year": "Feb 16, 2024",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "School",
+            "Sports"
+        ]
+    },
+    {
+        "movie_id": "0000000204",
+        "name": "Haikyu!! Movie: The Dumpster Battle Edit",
+        "alt_name": "Haikyu!! Movie: The Dumpster Battle Edit",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1665/140360.jpg",
+        "description": "Kenma Kozume has never considered volleyball fun or thrilling: it is merely something he is good at. But now Nekoma High School's volleyball team has qualified for the Spring Nationals and prepares to battle their long-standing rivals—Karasuno. Now, Kenma has to analyze the most confounding and resilient team and lead Nekoma to victory against them. Moreover, he will play against his friend Shouyou Hinata, Karasuno's short but incredibly proficient middle blocker. Karasuno has never been able to beat Nekoma in practice matches. Even so, despite his usual indifference, Kenma feels a tinge of excitement at the prospect of facing Karasuno in a high-stakes official game with no do-overs. To advance to the semifinals and ultimately restore their team's former glory, Karasuno must find a way to overcome Kenma's brilliant strategy and defeat Nekoma in their own territory.",
+        "language": "Chinese",
+        "release_year": "Feb 16, 2024",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "School",
+            "Sports"
         ]
     }
 ]
