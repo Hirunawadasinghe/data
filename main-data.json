@@ -5789,5 +5789,22 @@
             "Urban Fantasy"
         ],
         "condition": "upcoming"
+    },
+    {
+        "movie_id": "0000000358",
+        "name": "Dragon Ball Z: Plan to Eradicate the Super Saiyans",
+        "alt_name": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1131/122382.jpg",
+        "description": "Remake of Dragon Ball Z: Plan to Destroy the Saiyajin. Extra on Dragonball Raging Blast 2 game on X360/PS3.",
+        "language": "Japanese",
+        "release_year": "Nov 11, 2010",
+        "type": "OVA",
+        "episodes": "1",
+        "tags": [
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi",
+            "Martial Arts"
+        ]
     }
 ]
