@@ -7621,5 +7621,114 @@
             "Isekai",
             "Reincarnation"
         ]
+    },
+    {
+        "movie_id": "0000000471",
+        "name": "Saga of Tanya the Evil",
+        "alt_name": "Youjo Senki",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+        "description": "Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the \"Devil of the Rhine.\" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits—which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country's military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind's history.",
+        "language": "Japanese",
+        "release_year": "Jan 6, 2017",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Isekai",
+            "Military",
+            "Reincarnation"
+        ]
+    },
+    {
+        "movie_id": "0000000472",
+        "name": "Saga of Tanya the Evil",
+        "alt_name": "Youjo Senki",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+        "description": "Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the \"Devil of the Rhine.\" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits—which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country's military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind's history.",
+        "language": "English",
+        "release_year": "Jan 6, 2017",
+        "type": "TV",
+        "episodes": "12",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Isekai",
+            "Military",
+            "Reincarnation"
+        ]
+    },
+    {
+        "movie_id": "0000000473",
+        "name": "Saga of Tanya the Evil: The Movie",
+        "alt_name": "Youjo Senki Movie",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1249/117182.jpg",
+        "description": "With its armies sweeping across the continent, the Empire seems unstoppable. After securing victory over the remnants of the Republic's army, the Empire's ultimate victory is finally within reach. However, dark clouds are gathering in the East. The communist-led Russy Federation is mustering troops on its western border, preparing to enter the war. Supported by a detachment of Allied volunteer magicians—among whom is Mary Sioux, the daughter of a soldier killed by Tanya Degurechaff—the Federation is determined to spread the communist creed and bring the Empire to its knees.  Meanwhile, Tanya and her battalion return to the imperial capital from the southern front. Upon their arrival, they are tasked with investigating troop movements on the border with the Federation. Any escalation of violence at this point may lead to new conflicts, plunging the world into a devastating global war.  Will the Empire eventually emerge victorious from its struggle, or will it crumble in the face of superior enemies and radically different ideologies?",
+        "language": "Japanese",
+        "release_year": "Feb 8, 2019",
+        "type": "Movie",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Isekai",
+            "Military",
+            "Reincarnation"
+        ]
+    },
+    {
+        "movie_id": "0000000474",
+        "name": "Saga of Tanya the Evil: Operation Desert Pasta",
+        "alt_name": "Youjo Senki: Sabaku no Pasta Daisakusen",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1210/117213.jpg",
+        "description": "The 203rd Air Mage Battalion led by Tanya is forced to fight in the southern desert, the front line. In an effort to provide some food for the harsh conditions, Colonel Rerugen sent dried pasta to the battlefield. Will Tanya and the others be able to eat the delicious pasta under the conditions of water shortage?",
+        "language": "Japanese",
+        "release_year": "Jun 19, 2021",
+        "type": "ONA",
+        "episodes": "1",
+        "tags": [
+            "Action",
+            "Fantasy",
+            "Isekai",
+            "Military",
+            "Reincarnation"
+        ]
+    },
+    {
+        "movie_id": "0000000475",
+        "name": "Youjo Shenki",
+        "alt_name": "Youjo Shenki",
+        "thumbnail_image": "https://animension.to/assets/images/sh/covers/1180.png",
+        "description": "A chibi parody of Youjo Senki.",
+        "language": "Japanese",
+        "release_year": "Jan 10, 2017",
+        "type": "ONA",
+        "episodes": "10",
+        "tags": [
+            "Comedy",
+            "Fantasy",
+            "Isekai",
+            "Military",
+            "Parody",
+            "Reincarnation"
+        ]
+    },
+    {
+        "movie_id": "0000000476",
+        "name": "Youjo Shenki: Episode 0",
+        "alt_name": "Youjo Shenki Episode 0",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1781/122851.jpg",
+        "description": "Episode 0 of the Mini Anime for Youjo Senki.",
+        "language": "Japanese",
+        "release_year": "Jan 6, 2017",
+        "type": "ONA",
+        "episodes": "1",
+        "tags": [
+            "Comedy",
+            "Fantasy",
+            "Isekai",
+            "Parody",
+            "Reincarnation"
+        ]
     }
 ]
