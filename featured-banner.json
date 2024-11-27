@@ -5,33 +5,38 @@
         "title": "Jujutsu Kaisen"
     },
     {
-        "movie_id": "0000000118",
-        "thumbnail_image": "https://i.postimg.cc/2yxCL67Q/Anime-Blue-Lock-Season2-Key-Art-1024x576.jpg",
-        "title": "Blue Lock 2nd Season"
-    },
-    {
         "movie_id": "0000000101",
         "thumbnail_image": "https://i.postimg.cc/jqHBz2Gf/dandadan-poster.webp",
         "title": "Dandadan"
     },
     {
-        "movie_id": "0000000202",
-        "thumbnail_image": "https://i.postimg.cc/G36pYwQs/crunchyroll-acquires-haikyu-blue-lock-and-overlord-films-rev-e5m8-1280.webp",
-        "title": "Haikyu!! Movie: The Dumpster Battle"
+        "movie_id": "0000000247",
+        "thumbnail_image": "https://i.postimg.cc/HkHvcVCm/one-piece-anime-to-take-a-six-month-hiatus-remastered-fish-m-usp9.png",
+        "title": "One Piece Log: Fish-Man Island Saga"
     },
     {
-        "movie_id": "0000000143",
-        "thumbnail_image": "https://i.postimg.cc/rmGsXWpT/blue-box.jpg",
-        "title": "Blue Box"
+        "movie_id": "0000000310",
+        "thumbnail_image": "https://i.postimg.cc/L8Hv4wz6/4c400d4323ea9b8b6487403a165ca8ec.jpg",
+        "title": "365 Days to the Wedding"
     },
     {
-        "movie_id": "0000000025",
-        "thumbnail_image": "https://i.postimg.cc/Z53dLWxT/5b262629a153363a7f0e150a6ca9dffb.png",
-        "title": "Attack on Titan"
+        "movie_id": "0000000359",
+        "thumbnail_image": "https://i.postimg.cc/26f1rRZ0/image.webp",
+        "title": "Sword Art Online Alternative: Gun Gale Online II"
     },
     {
         "movie_id": "0000000008",
         "thumbnail_image": "https://i.postimg.cc/hjm6Db9k/dslayerhero.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "movie_id": "0000000113",
+        "thumbnail_image": "https://i.postimg.cc/FsJXgfqJ/main-2nd-e1709652698736.jpg",
+        "title": "Wind Breaker"
+    },
+    {
+        "movie_id": "0000000245",
+        "thumbnail_image": "https://i.postimg.cc/Mpqx66PM/83c94-17293806747961-1920.jpg",
+        "title": "You are Ms. Servant."
     }
 ]
