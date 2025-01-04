@@ -8353,5 +8353,23 @@
             "Sci-Fi",
             "Supernatural"
         ]
+    },
+    {
+        "movie_id": "0000000512",
+        "name": "Solo Leveling Season 2: Arise from the Shadow",
+        "alt_name": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+        "thumbnail_image": "https://cdn.myanimelist.net/images/anime/1463/145502.jpg",
+        "description": "Second season of Ore dake Level Up na Ken.",
+        "language": "Japanese",
+        "release_year": "Jan 4, 2025",
+        "type": "TV",
+        "episodes": "Unknown",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Adult Cast",
+            "Urban Fantasy"
+        ]
     }
 ]
